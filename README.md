@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KopDevKE
 - 👀 I’m interested in front-end webdev
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Javascript
 
 
 <!---
